@@ -18,6 +18,6 @@ I applied conditional formatting to the yearly change column and to the percent 
 I learned how to retrieve the Greatest % Increase from this source: 
 https://github.com/DataTell/VBA-Challenge/blob/master/VBAStocks/VBAStocksScript.bas 
 
-Moreover, I Chat GPT helped me understand how to get the same routine on different worksheets.
+Moreover, Chat GPT helped me understand how to get the same routine on different worksheets.
 
 AskBCS Learning and a tutor session assisted me in debugging my code. 
